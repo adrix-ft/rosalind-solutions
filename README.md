@@ -37,12 +37,18 @@ Solving these problems to build algorithmic thinking for bioinformatics, strengt
 
 ```
 rosalind-solutions/
-├── DNA.py          # Counting DNA Nucleotides
-├── RNA.py          # Transcribing DNA into RNA
-├── REVC.py         # Complementing a Strand of DNA
-├── GC.py           # Computing GC Content
-├── HAMM.py         # Counting Point Mutations
-└── README.md
+├── README.md
+├── Solutions
+└── ├──dna
+    ├──rna
+    ├──revc
+    ├──gc
+    ├──hamm
+    ├──prot
+    ├──subs
+    ├──cons
+    ├──fibd
+    ├──grph
 ```
 
 Each file is named after the official Rosalind problem ID. Solutions are written in Python 3 using standard libraries and Biopython where relevant.
