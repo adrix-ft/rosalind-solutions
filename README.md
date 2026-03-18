@@ -95,6 +95,8 @@ BSc Bioinformatics — <!--Swami Vivekanand Subharti University-->
 
 GitHub: [adrix-ft](https://github.com/adrix-ft)
 
+Rosalind: [qdrix](https://rosalind.info/users/Qdrix/)
+
 ORCID: [0009-0002-7040-170X](https://orcid.org/0009-0002-7040-170X). 
 
 ---
